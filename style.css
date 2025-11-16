@@ -327,6 +327,7 @@ button:active {
     /* Social icons move up */
     .container {
         bottom: 10px;
+        gap: 5px;
         transform: translateX(-50%);
     }
 
