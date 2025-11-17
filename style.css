@@ -327,7 +327,7 @@ button:active {
     /* Social icons move up */
     .container {
         bottom: 10px;
-        margin: 0px 20px;
+        margin: 0px 6px;
         transform: translateX(-50%);
     }
 
@@ -336,7 +336,7 @@ button:active {
 
         display: block;
         cursor: pointer;
-          margin-left: auto;
+        margin-left: auto;
         font-size: 30px;
         color: white;
         user-select: none;
