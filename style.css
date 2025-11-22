@@ -274,7 +274,9 @@ button:active {
 .hamburger {
     display: none;
 }
-
+.tooltip{
+    display: none;
+}
     /* Navbar small size */
     .navbar {
         margin: 10px;
