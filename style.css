@@ -269,7 +269,7 @@ button:active {
 /* -----------------------------------------
    MOBILE VIEW (Max width: 768px)
 ----------------------------------------- */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     /* Desktop hide hamburger */
 .hamburger {
     display: none;
@@ -331,7 +331,7 @@ button:active {
         transform: translateX(-50%);
         display: flex;
         justify-content: center;
-        gap: 10px;        /* Reduce gap */
+        gap: 0px;        /* Reduce gap */
         width: 100%;
     }
 
